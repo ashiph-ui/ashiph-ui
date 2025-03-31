@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashiph | Graduate Data Scientist  
+*"Turning raw data into actionable insights"*  
 
-<!--
-**ashiph-ui/ashiph-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Machine+Learning+Enthusiast;Data+Storyteller;Python+%7C+SQL+%7C+R)](https://git.io/typing-svg)  
 
-Here are some ideas to get you started:
+🔬 **2024 Graduate** from University of Bristol | 🎯 Currently Employed with Zenith Surveying Limited  
+🌱 Currently mastering: **Deep Learning (PyTorch) & Big Data Tools**  
+💡 Passionate about: **Computer Vision, Times Series Fortcasting, Classification Tasks, NLP**  
+📫 Reach me: ashiphrai.work@gmail.com | [LinkedIn](www.linkedin.com/in/ashiph-rai-75609b217)   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Toolkit  
+### Languages & Frameworks  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+
+### Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)  
+
+### Data Science Workflow  
+- **EDA & Visualization**: Pandas, Matplotlib, Seaborn  
+- **Model Deployment**: Flask, Heroku  
+- **Collaboration**: Jupyter Notebooks, Markdown  
+
+---
+
+## 📊 GitHub Stats & Activity  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashiph-ui&show_icons=true&theme=merko&hide=issues)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiph-ui&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  
+
+🔥 **Streak**: [![GitHub Streak](https://streak-stats.demolab.com/?user=ashiph-ui&theme=merko)](https://git.io/streak-stats)  
+
+---
+
+## 📂 Featured Projects  
+### 1. Sign Language Detection  
+Leveraging Mediapipe and OpenCV to create an application that converts ASL hand signs to letters using your device webcam.  
+- **Tech Stack**: Python, Mediapipe, OpenCV, Scikit-learn 
+- **Key Results**: Achieved 93% accuracy in classifying ASL.  
+---
+
+## 🎓 Academic Highlights  
+- **Thesis**: "A Comparison of Machine Learning Frameworks For Reducing Rates of Misdiagnosis in Dementia" (Used [ML method] to solve [problem])  
+- **Relevant Courses**: Machine Learning, Statistical Inference, Data Mining 
+
+---
+
+## 🤝 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/ashiph-rai-75609b217)  
