@@ -38,11 +38,18 @@
 ### 1. Sign Language Detection  
 Leveraging Mediapipe and OpenCV to create an application that converts ASL hand signs to letters using your device webcam.  
 - **Tech Stack**: Python, Mediapipe, OpenCV, Scikit-learn 
-- **Key Results**: Achieved 93% accuracy in classifying ASL.  
+- **Key Results**: Achieved 93% accuracy in classifying ASL.
+
+### 2. CNN-Based Rooftop Segmentation 
+RoofSeg: A CNN-based model for automated building top segmentation from aerial/satellite imagery. Uses semantic segmentation to generate precise masks of rooftops from plain images.  
+- **Tech Stack**: Python, PyTorch, Rasterio
+
 ---
 
 ## 🎓 Academic Highlights  
-- **Thesis**: "A Comparison of Machine Learning Frameworks For Reducing Rates of Misdiagnosis in Dementia" (Used [ML method] to solve [problem])  
+- **Thesis**: "A Comparison of Machine Learning Frameworks For Reducing Rates of Misdiagnosis in Dementia" (Used [ML method] to solve [problem])
+  - Reducing rates of dementia by 2-3% based on clinical questionaire data.
+  - Exploration made using Logistic Regression, Random Forests and XGB.  
 - **Relevant Courses**: Machine Learning, Statistical Inference, Data Mining 
 
 ---
