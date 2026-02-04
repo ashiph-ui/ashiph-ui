@@ -26,14 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats & Activity  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashiph-ui&show_icons=true&theme=merko&hide=issues)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiph-ui&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  
-
-🔥 **Streak**: [![GitHub Streak](https://streak-stats.demolab.com/?user=ashiph-ui&theme=merko)](https://git.io/streak-stats)  
-
----
-
 ## 📂 Featured Projects  
 ### 1. Sign Language Detection  
 Leveraging Mediapipe and OpenCV to create an application that converts ASL hand signs to letters using your device webcam.  
@@ -50,7 +42,6 @@ RoofSeg: A CNN-based model for automated building top segmentation from aerial/s
 - **Thesis**: "A Comparison of Machine Learning Frameworks For Reducing Rates of Misdiagnosis in Dementia" (Used [ML method] to solve [problem])
   - Reducing rates of dementia by 2-3% based on clinical questionaire data.
   - Exploration made using Logistic Regression, Random Forests and XGB.  
-- **Relevant Courses**: Machine Learning, Statistical Inference, Data Mining 
 
 ---
 
